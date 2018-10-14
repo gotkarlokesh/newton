@@ -9,6 +9,14 @@ hima
 bsnl
 trump
 kites
+<<<<<<< HEAD
 ooooo
 qqqqq
 yyyyy
+=======
+lokesh
+srinivas
+basha
+nagendra
+lilly
+>>>>>>> rao
