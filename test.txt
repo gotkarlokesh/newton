@@ -4,3 +4,6 @@ clock
 usha
 nani
 home
+dharani
+hima
+bsnl
